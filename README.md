@@ -79,6 +79,12 @@ Detection_of_Malaria.ipynb
 
 Run all the cells using Google Colab or Jupyter Notebook.
 
+##  Achievements
+
+-  Research paper published in an IEEE conference based on this project.
+-  Presented this project at a National Conference.
+-  Developed as a final-year academic project in collaboration with a teammate.
+
 
 ## Future Improvements
 
